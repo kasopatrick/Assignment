@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string_array name ="=mContacts">
+        <item>Patrick</item>
+        <item>Joy</item>
+        <item>Kalyn</item>
+        <item>Janet</item>
+        <item>Baruch</item>
+        <item>Elvis</item>
+        <item>Titus</item>
+        <item>Abe</item>
+        <item>Rebo</item>
+        <item>Antony</item>
+
+    </string_array>
+
+</resources>
